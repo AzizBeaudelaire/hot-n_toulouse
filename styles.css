@@ -1,5 +1,5 @@
 body {
-    background-color: #CA3C66;
+    background-color: #c01b4b;
     color: white;
     font-family: 'Arial', sans-serif;
     text-align: center;
@@ -14,8 +14,8 @@ body {
 }
 
 #logo {
-    width: 100px; /* Ajustez la taille de votre logo selon vos besoins */
-    height: 100px;
+    width: 200px; /* Ajustez la taille de votre logo selon vos besoins */
+    height: 200px;
     margin-bottom: 20px;
 }
 
